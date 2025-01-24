@@ -3,7 +3,7 @@ name: Feature
 about: To be done
 title: 'feat(name): description'
 assignees: rbalet
-type: feature
+type: Feat
 
 ---
 
