@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: 'fix(component): description'
-labels: t::Fix
 assignees: rbalet
+type: Bug
 
 ---
 
