@@ -2,8 +2,8 @@
 name: Feature
 about: To be done
 title: 'feat(name): description'
-labels: t::Feat
 assignees: rbalet
+type: feature
 
 ---
 
