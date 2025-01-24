@@ -4,6 +4,7 @@ about: Suggest an idea for this project
 title: 'feat(name): description'
 labels: s::Feature Request
 assignees: rbalet
+type: Feat
 
 ---
 
