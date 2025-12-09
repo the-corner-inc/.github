@@ -1,9 +1,9 @@
 ---
-name: Feature
-about: To be done
-title: 'feat(scope/component): description'
+name: Style
+about: UI Change
+title: 'style(scope/component): description'
 assignees: rbalet
-type: Feat
+type: Style
 
 ---
 

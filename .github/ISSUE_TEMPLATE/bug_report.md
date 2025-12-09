@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: 'fix(component): description'
+title: 'fix(scope/component): description'
 assignees: rbalet
 type: Bug
 
