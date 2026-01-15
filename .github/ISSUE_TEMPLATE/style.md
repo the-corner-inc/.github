@@ -2,7 +2,6 @@
 name: Style
 about: UI Change
 title: 'style(scope/component): description'
-assignees: rbalet
 type: Style
 
 ---

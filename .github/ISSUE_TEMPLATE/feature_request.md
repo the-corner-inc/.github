@@ -3,7 +3,6 @@ name: Feature request
 about: Suggest an idea for this project
 title: 'feat(scope/component): description'
 labels: s::Feature Request
-assignees: rbalet
 type: Feat
 
 ---

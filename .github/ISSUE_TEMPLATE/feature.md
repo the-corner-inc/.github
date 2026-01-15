@@ -2,7 +2,6 @@
 name: Feature
 about: To be done
 title: 'feat(scope/component): description'
-assignees: rbalet
 type: Feat
 
 ---

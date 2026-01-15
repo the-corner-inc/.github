@@ -2,7 +2,6 @@
 name: Docs
 about: Documentation Change
 title: 'docs(scope/component): description'
-assignees: rbalet
 type: Docs
 
 ---
