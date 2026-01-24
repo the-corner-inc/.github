@@ -1,8 +1,8 @@
 ---
-name: Analyze
+name: Analyse
 about: Analysis and research (feasibility, user research, ...)
-title: 'analyze: description'
-type: Analyze
+title: 'analyse: description'
+type: Analyse
 
 ---
 
