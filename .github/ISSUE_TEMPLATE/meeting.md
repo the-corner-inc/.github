@@ -7,41 +7,47 @@ type: Meeting
 ---
 
 ## Weekly: 
-Attendees:   
-Excused: 
-Start: 
-End:  
+**Attendees**: Raphaël B, Carlo A, Justin B, Emmanuel A, Lucas D, Gwenaëlle G   
+**Excused**: 
+**Start**: 17:05
+**End**:  
 
 ## Last Weekly
-| Point | Description |
-| ----- | ----------- |
-|       |             |
+| Done                | Point      | Description                   |
+| ------------------- | ---------- | ----------------------------- |
+| <ul><li>- [ ] </li> | Transcript | Team validate last transcript |
+
+## Round-Robin 
+
 
 ## General Focus
-| Point | Description |
-| ----- | ----------- |
+| Done                | Point | Description |
+| ------------------- | ----- | ----------- |
+| <ul><li>- [ ] </li> |       |             |
+
+### Special focus
+
+## Task
+| Point | Description | Task |
+| ----- | ----------- | ---: |
 |       |             |
 
 ## Design Focus
-| Point | Description |
-| ----- | ----------- |
-|       |             |
+| Done                     | Point | Description |
+| ------------------------ | ----- | ----------- |
+| <ul><li>- [ ] </li></ul> |       |             |
 
 ## Dev Focus
-| Point | Description |
-| ----- | ----------- |
-|       |             |
+| Done                     | Point | Description |
+| ------------------------ | ----- | ----------- |
+| <ul><li>- [ ] </li></ul> |       |             |
 
 
 ## QA Focus
-| Point | Description |
-| ----- | ----------- |
-|       |             |
+| Done                     | Point | Description |
+| ------------------------ | ----- | ----------- |
+| <ul><li>- [ ] </li></ul> |       |             |
 
-## Task
-| Point | Description | Issue |
-| ----- | ----------- | ----- |
-|       |             |       |
 
 ## Side Quest
 _Read at your own leisure_
