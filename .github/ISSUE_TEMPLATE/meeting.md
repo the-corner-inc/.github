@@ -7,9 +7,9 @@ type: Meeting
 ---
 
 ## Weekly: 
-**Attendees**: Raphaël B, Carlo A, Justin B, Emmanuel A, Lucas D, Gwenaëlle G   
+**Attendees**: Raphaël B, Carlo A, Justin B, Emmanuel A, Lucas D, Gwenaëlle G, Elias B   
 **Excused**: 
-**Start**: 17:05
+**Start**: 17:10
 **End**:  
 
 ## Last Weekly
